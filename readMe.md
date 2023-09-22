@@ -21,23 +21,22 @@ This page is basically built with just
 ## CLONE PROJECT
 * open your terminal
 * type and run this comand (`git clone git@github.com:https://github.com/Nsairun/js-secret-message.git`)
-* change to the project directory by entering: cd scale-balance
+* change to the project directory by entering: cd myhankerrank
 * Note That: all this is done using your Linux terminal or git-bash for windows users.
 
 ## Command-line steps
 
-- $ git clone `git@github.com:https://github.com/Nsairun/js-secret-message.git`
-- $ `cd secret-message`
-- $ `git checkout feature/secretsms`
+- $ git clone `git@github.com:Nsairun/myhankerrank.git`
+- $ `cd myhankerrank`
 
 ## CONTRIBUTION
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](`https://github.com/Nsairun/js-secret-message.git`).
+Feel free to check the [issues page](`https://github.com/Nsairun/myhankerrank`).
 
 ## Live Site
 
-[Link](https://github.com/Nsairun/js-secret-message.git)
+[Link](https://github.com/Nsairun/myhankerrank)
 
 ## AUTHOR
 **NSAIRUN**
-- GitHub: [@RashJrEdmund](https://github.com/Nsairun/js-secret-message.git)
+- GitHub: [@Nsairun](https://github.com/Nsairun/myhankerrank)
